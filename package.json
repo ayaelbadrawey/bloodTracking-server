@@ -23,6 +23,11 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "fabric-ca-client": "^2.2.8",
+    "fs": "0.0.1-security",
+    "morgan": "^1.10.0",
+    "fabric-network": "~1.4.0",
+    "fabric-client": "~1.4.0",
+    "js-yaml": "^3.12.0"
   }
 }
